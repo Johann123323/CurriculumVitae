@@ -1,0 +1,41 @@
+p{
+    color: black;
+}
+
+.nombre{
+    text-align:center;
+}
+
+.subTitulo{
+    background-color: darkgrey;
+}
+
+.bg-darkGray{
+    background-color: darkgray;
+}
+
+.bg-lightGray{
+    background-color:rgb(232, 232, 232);
+}
+
+.img-foto{
+    padding: 0.25rem;
+    border: 5px solid #9ca2df;
+    border-radius: 0.25rem;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .img-logo {
+    margin-left: 100px;
+    max-width: 40%;
+    height: auto;
+  }
+
+  .footer{
+    margin: 25px;
+  }
+
+  .habilidades.p{
+
+  }
