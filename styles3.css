@@ -19,23 +19,32 @@ p{
 }
 
 .img-foto{
-    padding: 0.25rem;
-    border: 5px solid #9ca2df;
-    border-radius: 0.25rem;
-    max-width: 100%;
-    height: auto;
+    border: 3px solid #000000;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-color:rgb(232, 232, 232);
+    margin-left: 40px;
   }
 
-  .img-logo {
+.img-logo {
     margin-left: 100px;
     max-width: 40%;
     height: auto;
-  }
+}
 
-  .footer{
+.footer{
     margin: 25px;
-  }
+}
 
-  .habilidades.p{
+.habilidades>p{
+    margin: 0px;
+}
 
-  }
+section>.progress{
+    margin-bottom: 15px;
+}
+
+
+
+
