@@ -1,1 +1,56 @@
 /* You can add global styles to this file, and also import other style files */
+p{
+    color: black;
+}
+
+.nombre{
+    text-align:center;
+}
+
+.subTitulo{
+    background-color: darkgrey;
+}
+
+.bg-darkGray{
+    background-color: darkgray;
+}
+
+.bg-lightGray{
+    background-color:rgb(232, 232, 232);
+}
+
+.img-foto{
+    border: 3px solid #000000;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+  }
+
+.img-logo {
+    border: 0px solid #000000;
+    border-radius: 25%;
+    width: 100px;
+    height: 100px;
+    background-color:rgb(232, 232, 232);
+    justify-content: center;
+    margin-left: 200px;
+    margin-top: 7px;
+}
+
+.footer{
+    margin: 25px;
+}
+
+.habilidades>p{
+    margin: 0px;
+}
+
+section>.progress{
+    margin-bottom: 15px;
+}
+
+.container{
+    box-shadow: 0 1px 8px black;
+}

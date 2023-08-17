@@ -1,11 +1,16 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-  <app-header></app-header>
-  <app-footer></app-footer>
-</body>
-</html>
+<app-header></app-header>
+<div class="container">
+  <div class="row">
+      <div class="col-sm-3 bg-darkGray p-4">
+        <app-perfil></app-perfil>
+        <app-contacto></app-contacto>
+        <app-habilidades></app-habilidades>
+      </div>
+      <div class="col-sm-9 p-4 bg-lightGray">
+          <app-experiencia-laboral></app-experiencia-laboral>
+          <app-educacion></app-educacion>
+          <app-proyectos></app-proyectos>
+      </div>
+  </div>
+</div>
+<app-footer></app-footer>
