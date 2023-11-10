@@ -1,0 +1,22 @@
+{
+    "experiencia-laboral": [
+        {
+            "organizacion": "NEXT",
+            "rol": "Actualizacion del Firmware en antenas.",
+            "fechaInicio": "2018",
+            "fechaEgreso": "-"
+        },
+        {
+            "organizacion": "Trade Esquel",
+            "rol": "Antención al cliente.",
+            "fechaInicio": "2022",
+            "fechaEgreso": "2022"
+        },
+        {
+            "organizacion": "CheAgencia",
+            "rol": "Atención al cliente mediante redes sociales.",
+            "fechaInicio": "2022",
+            "fechaEgreso": "2023"
+        }
+    ]
+}

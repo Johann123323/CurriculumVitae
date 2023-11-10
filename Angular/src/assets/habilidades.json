@@ -1,0 +1,32 @@
+{
+    "habilidades": [
+        {
+            "habilidad":"Lenguajes de Programación",
+            "informacion": "Dominio de HTML, CSS, JavaScript, y experiencia en lenguajes como Python."
+        },
+        {
+            "habilidad":"Desarrollo Front-end",
+            "informacion": "Experiencia en frameworks como Angular."
+        },
+        {
+            "habilidad":"Desarrollo Back-end",
+            "informacion": "Conocimiento en tecnologías como Node.js."
+        },
+        {
+            "habilidad":"Bases de Datos",
+            "informacion": "Familiaridad con bases de datos SQL."
+        },
+        {
+            "habilidad":"Herramientas y Versionado",
+            "informacion": "Uso de Git."
+        },
+        {
+            "habilidad":"Programación Lógica",
+            "informacion": "Habilidad para resolver problemas de manera eficiente y lógica."
+        },
+        {
+            "habilidad":"Comunicación y Colaboración",
+            "informacion": "Capacidad para trabajar en equipo y comunicar ideas de manera efectiva."
+        }
+    ]
+}

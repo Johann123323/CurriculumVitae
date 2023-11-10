@@ -1,6 +1,11 @@
 <section class="educacion">
     <h3>EDUCACION</h3>
-    <div>
-        <p>Escuela 713 "Juan Abdala Chayep"</p>
-    </div>
+    <section *ngFor="let item of datosAcademicos">
+        <ul>
+            <li>
+                <h4>{{item.organizacion}}</h4>
+            </li>
+            <p>{{item.titulo}}</p>
+        </ul>
+    </section>
 </section>
